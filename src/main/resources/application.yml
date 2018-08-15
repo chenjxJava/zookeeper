@@ -1,0 +1,6 @@
+zookeeper:
+  connectString: 192.168.88.128:2181
+  sessionTimeout: 2000
+logging:
+  level:
+    root: off
